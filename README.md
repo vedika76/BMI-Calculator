@@ -2,6 +2,10 @@
 
 A simple, user-friendly, and responsive Body Mass Index (BMI) Calculator developed using **Java Swing** and **AWT**.
 
+
+<img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/037c840f-19c9-4776-8629-5fafec5cb30b" />
+
+
 ---
 
 ## Features
